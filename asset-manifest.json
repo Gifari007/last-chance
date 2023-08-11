@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/last-chance/static/css/main.bf538fe7.css",
+    "main.js": "/last-chance/static/js/main.20bba161.js",
+    "static/media/HeroImage.jpg": "/last-chance/static/media/HeroImage.379d0c4a932262ea5e05.jpg",
+    "index.html": "/last-chance/index.html",
+    "main.bf538fe7.css.map": "/last-chance/static/css/main.bf538fe7.css.map",
+    "main.20bba161.js.map": "/last-chance/static/js/main.20bba161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.20bba161.js"
+  ]
+}
